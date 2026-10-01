@@ -1,34 +1,25 @@
 # Hi there, I'm Andrew Ayman 👋
 ## 💻 Full-Stack Web Developer
 
+---
+
 ### 🛠️ Tech Stack & Tools
 
-<img src="https://shields.io" alt="Python" /> &nbsp;
-<img src="https://shields.io" alt="Next.js" /> &nbsp;
-<img src="https://shields.io" alt="React" /> &nbsp;
-<img src="https://shields.io" alt="Angular" /> &nbsp;
-<img src="https://shields.io" alt="NodeJS" /> &nbsp;
-<img src="https://shields.io" alt="MySQL" /> &nbsp;
-<img src="https://shields.io" alt="Bootstrap" />
+* 🚀 **Frontend:** Next.js | React | Angular | Bootstrap
+* ⚙️ **Backend & Databases:** Node.js | Python | MySQL
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Profile Overview
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://demolab.com" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" width="60%" />
-</p>
+* 📈 **GitHub Stats:** [View Full Insights](https://github.com)
+* 🔥 **Current Contributions:** Tracked via main dashboard.
 
 ---
 
 ### 🔝 Top Contributed Repo
 
-* 🌐 **[Royal Print](https://royal-print-egypt.vercel.app/)** &nbsp;|&nbsp; 💻 **[Source Code](https://github.com)**  
+* 🌐 **[Royal Print](https://vercel.app)** &nbsp;|&nbsp; 💻 **[Source Code]([https://github.com/royal-print](https://github.com/TheDeveloperAndrawes/royal-print))**  
   A comprehensive and responsive website for a printing, advertising and publicity company, allowing users to browse printing services, directly customize products and calculate prices.
 
 ---
@@ -39,16 +30,9 @@
 
 ### 🤝 Connect with me
 
-<a href="https://facebook.com" target="_blank">
-  <img src="https://shields.io" alt="Facebook" />
-</a>
-&nbsp;
-<a href="https://instagram.com" target="_blank">
-  <img src="https://shields.io" alt="Instagram" />
-</a>
+* 🔹 **Facebook:** [Andrew Ayman on Facebook](https://facebook.com)
+* 🔸 **Instagram:** [@developerwebsite27276](https://instagram.com)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com" alt="Visitor Count" />
-</p>
+*✨ Welcome to my profile! Feel free to explore my repositories. ✨*
