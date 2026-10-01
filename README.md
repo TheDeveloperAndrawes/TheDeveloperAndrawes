@@ -7,10 +7,12 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheDeveloperAndrawes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+> "The code you write today is the foundation for the innovations of tomorrow."
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TheDeveloperAndrawes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo
+
+* 🌐 **[Royal Print](https://royal-print-egypt.vercel.app/)** - موقع ويب متكامل ومتجاوب لشركة طباعة ودعاية وإعلان، يتيح للمستخدمين استعراض خدمات الطباعة والتخصيص المباشر للمنتجات وحساب الأسعار.
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=TheDeveloperAndrawes&icon=0&color=0)](https://visitcount.itsvg.in)
