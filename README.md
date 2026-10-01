@@ -3,22 +3,32 @@
 
 ### 🛠️ Tech Stack & Tools
 
-![Python](https://shields.io) ![Next JS](https://shields.io) ![React](https://shields.io) ![Angular](https://shields.io) ![NodeJS](https://shields.io) ![MySQL](https://shields.io) ![Bootstrap](https://shields.io)
+<img src="https://shields.io" alt="Python" /> &nbsp;
+<img src="https://shields.io" alt="Next.js" /> &nbsp;
+<img src="https://shields.io" alt="React" /> &nbsp;
+<img src="https://shields.io" alt="Angular" /> &nbsp;
+<img src="https://shields.io" alt="NodeJS" /> &nbsp;
+<img src="https://shields.io" alt="MySQL" /> &nbsp;
+<img src="https://shields.io" alt="Bootstrap" />
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://vercel.app)
-![GitHub Streak](https://demolab.com)
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://demolab.com" alt="GitHub Streak" width="48%" />
+</p>
 
-![Top Languages](https://vercel.app)
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" width="60%" />
+</p>
 
 ---
 
 ### 🔝 Top Contributed Repo
 
-* 🌐 **[Royal Print](https://vercel.app)** &nbsp;|&nbsp; 💻 **[Source Code](https://github.com)**  
+* 🌐 **[Royal Print](https://royal-print-egypt.vercel.app/)** &nbsp;|&nbsp; 💻 **[Source Code](https://github.com)**  
   A comprehensive and responsive website for a printing, advertising and publicity company, allowing users to browse printing services, directly customize products and calculate prices.
 
 ---
@@ -29,9 +39,16 @@
 
 ### 🤝 Connect with me
 
-[![Facebook](https://shields.io)](https://facebook.com)
-[![Instagram](https://shields.io)](https://instagram.com)
+<a href="https://facebook.com" target="_blank">
+  <img src="https://shields.io" alt="Facebook" />
+</a>
+&nbsp;
+<a href="https://instagram.com" target="_blank">
+  <img src="https://shields.io" alt="Instagram" />
+</a>
 
 ---
 
-![Visitor Count](https://komarev.com)
+<p align="center">
+  <img src="https://komarev.com" alt="Visitor Count" />
+</p>
